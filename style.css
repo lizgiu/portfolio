@@ -94,6 +94,7 @@
 }
 
 .home .max-width .text-1 {
+  display: flex;
   font-size: 4rem;
   margin-top: 230px;
   font-weight: bold;
@@ -101,6 +102,7 @@
 }
 
 .home .max-width .text-2 {
+  display: flex;
   font-size: 35px;
   margin: 5px 0;
 }
