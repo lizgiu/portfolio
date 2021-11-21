@@ -249,6 +249,7 @@
 .card__link {
   color: #0a0045;
   text-decoration: none;
+  font-size: 0.9rem;
 }
 
 .card__link:hover {
