@@ -90,11 +90,13 @@
 }
 
 .home .max-width .home-content {
+  height: 25vh;
+  max-width: flex;
   position: relative;
+  margin: 0;
 }
 
 .home .max-width .text-1 {
-  display: flex;
   font-size: 4rem;
   margin-top: 230px;
   font-weight: bold;
